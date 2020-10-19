@@ -1,2 +1,2 @@
-# conversorMoeda
-Conversor de Moeda de Dólar/Euro para Real!
+# Conversor de Moeda!
+Conversor simples de Moeda de Dólar/Euro para Real!
